@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But these files
+!.gitignore
+!bb2s.py
+!ini/*.ini
+!README.md
